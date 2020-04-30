@@ -5,11 +5,7 @@
 Esse repo foi uma aula on-line da live do André Soares através da plataforma 
 [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
 
-ele ensina como criar obter dados de página web com técnicas de web scrapping.
-
-Na Pasta 'database' você encontra o script da tabela para SQL Server DB.
-
-No Exemplo é usado EF Core para lidar com os dados da DB.
+Live onde ele ensina como obter dados de páginas web com técnicas de web scrapping.
 
 ## Instalação
 
